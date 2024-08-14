@@ -19,13 +19,13 @@
     height: 24px;
     border-radius: 9999px;
     position: absolute;
-    top: 2px;
-    left: 4px;
-    transition: transform 0.3s;
+    top: 1.5px;
+    left: 2.6px;
+    transition: transform 0.5s;
     box-shadow: 0px 3px 11px 0px #00000026;
 }
 .toggle.sun .toggle-thumb {
-    transform: translateX(31px);
+    transform: translateX(32.3px);
 }
 
 .bg-hero {
@@ -43,6 +43,9 @@
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: .8rem;
-    padding-left: .8rem;    
+}
+.container1 {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
 }
